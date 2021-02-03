@@ -1,0 +1,6 @@
+*.log
+exm.log
+/test/
+static/test
+
+
